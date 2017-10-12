@@ -12,3 +12,7 @@ automatic speech recognition on timit dataset
 ## reproducible research
 - Windows 10, Intel i5-4690 CPU, 8GB RAM, GTX 1070
 - It seems that current tf version (1.3) at the time of writing (2017-10-12) could not produce exact same results even if it start with same seed via 'tf.set_random_seed'. please refer to https://github.com/tensorflow/tensorflow/issues/2732 
+
+## script
+1) prepare_dataset - [nbviewer](http://nbviewer.jupyter.org/github/imdanboy/timit_asr/blob/master/prepare_dataset.ipynb)
+2) train_model - [nbviewer](http://nbviewer.jupyter.org/github/imdanboy/timit_asr/blob/master/train_model.ipynb)
