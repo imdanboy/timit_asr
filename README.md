@@ -1,7 +1,7 @@
 # timit_asr
 automatic speech recognition on timit dataset
 
-**It is the implementation of the paper 'convolutional attention-based seq2seq neural network for end-to-end asr'**
+**It is the implementation of the paper [convolutional attention-based seq2seq neural network for end-to-end asr](https://arxiv.org/abs/1710.04515)**
 
 ## required library
 - tensorflow-gpu verison 1.3 (https://www.tensorflow.org/)
